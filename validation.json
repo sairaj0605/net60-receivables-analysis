@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "checks": [
+    "SQL/Pandas invoice and customer parity",
+    "invoice less payments reconciles to open balance",
+    "ageing bucket boundaries checked",
+    "future payments excluded",
+    "no overallocated invoice",
+    "foreign keys checked"
+  ]
+}
